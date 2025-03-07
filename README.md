@@ -2,6 +2,8 @@
 
 ChatSphere is an AI-powered chatbot built using **Streamlit** and **Google Gemini API**. It provides intelligent and context-aware conversations with users, offering fast and efficient responses.  
 
+<img width="925" alt="image" src="https://github.com/user-attachments/assets/c1ae5e3a-76f1-493e-bfcf-aa7cad9e0733" />
+
 ## 🚀 Features  
 - **Natural Language Processing (NLP)** for intelligent conversations 🧠  
 - **Context-aware responses** for a seamless chat experience 💬  
